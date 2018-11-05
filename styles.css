@@ -1,0 +1,20 @@
+body{
+    background-color:lavender;
+    color:purple;
+    text-align:center;
+    border: dashed;
+    font-family: 'Codystar', cursive;
+    }
+img{
+    height: 200px;
+    width: 200px;
+    border: 10px;
+    border-radius: 50%;
+    transition: all .5s;
+}
+img:hover{
+    transform:scale(1.1);
+}
+h2{
+    text-decoration:underline;
+}
